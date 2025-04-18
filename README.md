@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! My name is Nikita. I am a junior frontend developer from Russia!
+Hello there! My name is Nikita. I am a frontend developer from Russia!
 
 
 ## 🌐 Socials:
